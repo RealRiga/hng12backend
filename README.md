@@ -46,7 +46,9 @@ Server runs on http://localhost:3000/
 
 📌 Deployment
 This API is deployed on vercel. You can access it here:
-👉 npm install -g vercel
+👉 https://hngbackend.vercel.app/
+
+    npm install -g vercel
     create vercel.json file
     run vercel
 
@@ -64,3 +66,6 @@ Check out Hire JavaScript Developers to build scalable web applications.
 🔗 Contact
 💼 GitHub: RealRiga
 ✉️ Email: adeolayisa32@gmail.com
+
+
+Thank you
