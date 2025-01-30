@@ -60,7 +60,8 @@ Feel free to fork, star, or open issues for improvements! 😊
 
 
 📌 Reference
-Check out Hire JavaScript Developers to build scalable web applications.
+Check out Hire Node.js Developers to build scalable web applications.
+👉 [HNG Node.js Developers](https://hng.tech/hire/nodejs-developers)
 
 
 🔗 Contact
