@@ -10,11 +10,10 @@ app.use(cors());
 app.get("/", (req, res) => {
    // This dynamically generate current date and time of Africa/Lagos
   const currentDateTime = moment().tz("Africa/Lagos").format();
-
   res.json({
     email: "adeolayisa32@gmail.com",
     // This returns the dynamic date and time
-    current_datetime: currentDatetime,
+    current_datetime: currentDateTime,
     github_url: "https://github.com/RealRiga/hng12backend"
   });
 });
