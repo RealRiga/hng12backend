@@ -37,6 +37,7 @@ cd hng12backend
 
 npm install
 
+do npm install dotenv // for env file
 
 3️⃣ Run the Server
 
@@ -44,8 +45,12 @@ node index.js
 Server runs on http://localhost:3000/
 
 📌 Deployment
-This API is deployed on Render. You can access it here:
-👉 
+This API is deployed on vercel. You can access it here:
+👉 npm install -g vercel
+    create vercel.json file
+    run vercel
+
+    after each changes done run * vercel --prod * in your terminal
 
 
 📌 Contribution
